@@ -5,5 +5,6 @@ Hierarchical data is a common relational data pattern for representing tree-like
 ## How to run the project
 
     - Create .env file and put your database credentials
+    - composer update   /* to download dependencies */
     - php artisan migrate
     - php artisan serve
